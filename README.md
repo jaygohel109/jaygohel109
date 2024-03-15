@@ -13,19 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Jay Gohel</h1>
-<h3 align="center">A passionate Full Stack Developer from USA, Who's currently perusing Master's Degree in Computer Science from Illinois Institute of Technology.</h3>
+<h3 align="center">A passionate Full Stack Developer from USA, Who's currently perusing a Master's Degree in Computer Science from Illinois Institute of Technology.</h3>
 
 - 🔭 I’m currently working on [My Portfolio Website](https://github.com/jaygohel109/Portfolio)
 
 - 🌱 I’m currently learning **React.Js, Data Visualisation,**
 
-- 👨‍💻 All of my projects are available at [jay-gohel.netlify.app](jay-gohel.netlify.app)
+- 👨‍💻 All of my projects are available at [PORTFOLIO-WEB](jay-gohel.netlify.app)
 
 - 💬 Ask me about **Python, CI/CD, React.Js, MongoDB, GraphQL**
 
 - 📫 How to reach me **jaygohel109@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VnBvA7qoR_GJ3AHviy6uSW2LIlgmNKCN/view?usp=sharing](https://drive.google.com/file/d/1VnBvA7qoR_GJ3AHviy6uSW2LIlgmNKCN/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1VnBvA7qoR_GJ3AHviy6uSW2LIlgmNKCN/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,7 +38,3 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaygohel109&show_icons=true&theme=dark&title_color=ffd700&text_color=ffffff&cache_seconds=1800&locale=en&layout=compact" alt="jaygohel109" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaygohel109&theme=dark" alt="jaygohel109" /></p>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jaygohel109/jaygohel109/output/snake.svg" alt="Snake animation" />
