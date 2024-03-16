@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React.Js, Data Visualisation,**
 
-- 👨‍💻 All of my projects are available at [PORTFOLIO-WEB](jay-gohel.netlify.app)
+- 👨‍💻 All of my projects are available at [PORTFOLIO-WEB](https://jay-gohel.netlify.app)
 
 - 💬 Ask me about **Python, CI/CD, React.Js, MongoDB, GraphQL**
 
