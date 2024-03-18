@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaygohel109&show_icons=true&theme=dark&title_color=ffd700&text_color=ffffff&cache_seconds=1800&locale=en&layout=compact" alt="jaygohel109" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaygohel109&theme=dark" alt="jaygohel109" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jaygohel109&theme=highcontrast)](https://git.io/streak-stats)
