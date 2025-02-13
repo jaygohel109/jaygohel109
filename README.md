@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jay Gohel</h1>
 <h3 align="center">A passionate Full Stack Developer from USA, Who's currently perusing a Master's Degree in Computer Science from Illinois Institute of Technology.</h3>
 
-- 🔭 I’m currently working on [My Portfolio Website](https://github.com/jaygohel109/Portfolio)
 
-- 🌱 I’m currently learning **React.Js, Data Visualisation,**
+
+- 🌱 I’m currently learning **Svelte, Data Visualisation, RAG**
 
 - 👨‍💻 All of my projects are available at [PORTFOLIO-WEB](https://jay-gohel.netlify.app)
 
-- 💬 Ask me about **Python, CI/CD, React.Js, MongoDB, GraphQL**
+- 💬 Ask me about **Python, CI/CD, React.Js, JavaScript, SQL, MongoDB, GraphQL**
 
 - 📫 How to reach me **jaygohel109@gmail.com**
 
